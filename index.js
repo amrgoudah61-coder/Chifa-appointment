@@ -24,13 +24,3 @@ app.listen(process.env.PORT,()=>{
     console.log("server conected.");  
     
 })
-
-
-
-//(3) finish the rest of middlewares باقي الميدلويرز اللي لسه متعملتش
-//(4) multer and nodemailer
-//(5) readme and postman collections 
-//(7)pagination 
-//(8) check status code
-//(9) pushed on github with editing gitignore file 
-//()عاوز لما اختار دكتور معين ف وقت معين مينفعش حد غيره يختار نفس المعاد
